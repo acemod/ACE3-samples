@@ -1,2 +1,2 @@
-# ACE3-samples
-Sample missions showing how to use certain features of ACE3
+# ACE3 Samples
+Sample code, configs and missions showing how to use certain features of ACE3
